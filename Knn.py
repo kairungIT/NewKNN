@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.title('การจำแนกข้อมูลด้วยเทคนิค Machine Learning')
+st.title('การจำแนกข้อมูล🪷🪷ด้วยเทคนิค Machine Learning')
 #st.image("./img/kairung.jpg")
 col1, col2, col3 = st.columns(3)
 

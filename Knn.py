@@ -53,5 +53,5 @@ st.pyplot(fig)
 # วาด pairplot
 if st.checkbox("แสดง Pairplot (ใช้เวลาประมวลผลเล็กน้อย)"):
     st.write("### 🌺 Pairplot: การกระจายของข้อมูลทั้งหมด")
-    fig2 = sns.pairplot(df, hue='species')
+    fig2 = sns.pairplot(dt, hue='species')
     st.pyplot(fig2)
